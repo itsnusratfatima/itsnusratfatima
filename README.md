@@ -14,6 +14,10 @@ Product strategy × Data fluency × System architecture
 
 ---
 
+Here are a few repos to check out
+https://github.com/itsnusratfatima/month-end-close-playbook
+https://github.com/itsnusratfatima/Agentic-AI-Repo
+
 ## Selected Work
 - Month-End Close Automation System (architecture + SQL + data modeling)
 - Reconciliation workflow optimization
@@ -28,6 +32,11 @@ Product strategy × Data fluency × System architecture
 - Calm under ambiguity
 
 ---
+
+LinkedIn => https://www.linkedin.com/in/itsnusratfatima/
+Medium => https://medium.com/@itsnusratfatima
+Email => itsnusratfatima@gmail.com
+Notion Portfolio => https://www.notion.so/itsnusratfatima/Nusrat-Fatima-283c4b2583898241bb85018d85ca99cb?source=copy_link
 
 Open to collaborating on impactful fintech & infrastructure problems.
 
