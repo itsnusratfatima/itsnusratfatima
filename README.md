@@ -15,8 +15,10 @@ Product strategy × Data fluency × System architecture
 ---
 
 Here are a few repos to check out
-https://github.com/itsnusratfatima/month-end-close-playbook
-https://github.com/itsnusratfatima/Agentic-AI-Repo
+
+- https://github.com/itsnusratfatima/month-end-close-playbook
+  
+- https://github.com/itsnusratfatima/Agentic-AI-Repo
 
 ## Selected Work
 - Month-End Close Automation System (architecture + SQL + data modeling)
