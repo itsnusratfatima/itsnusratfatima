@@ -32,11 +32,14 @@ https://github.com/itsnusratfatima/Agentic-AI-Repo
 - Calm under ambiguity
 
 ---
+## 
+- LinkedIn => https://www.linkedin.com/in/itsnusratfatima/
 
-LinkedIn => https://www.linkedin.com/in/itsnusratfatima/
-Medium => https://medium.com/@itsnusratfatima
-Email => itsnusratfatima@gmail.com
-Notion Portfolio => https://www.notion.so/itsnusratfatima/Nusrat-Fatima-283c4b2583898241bb85018d85ca99cb?source=copy_link
+- Medium => https://medium.com/@itsnusratfatima
+  
+- Email => itsnusratfatima@gmail.com
+  
+- Notion Portfolio => https://www.notion.so/itsnusratfatima/Nusrat-Fatima-283c4b2583898241bb85018d85ca99cb?source=copy_link
 
 Open to collaborating on impactful fintech & infrastructure problems.
 
